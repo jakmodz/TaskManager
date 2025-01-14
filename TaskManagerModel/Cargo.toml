@@ -1,0 +1,8 @@
+[package]
+name = "TaskManagerModel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clib = "0.2.4"
+winapi = "0.3.9"
