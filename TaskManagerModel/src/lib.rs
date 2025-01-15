@@ -1,3 +1,9 @@
+mod task_info;
+mod task_manager;
+mod TaskManagerCore;
+mod TaskManagerWindows;
+mod TaskManagerLinux;
+
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
